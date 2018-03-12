@@ -12,4 +12,4 @@ The machine uses two separate Arduino devices. One controls the sorting process 
 - The `sortingmachine_lighting` sketch controls the RGB leds. It communicates with the primary Arduino device through I2C (TWI) and should be connected accordingly. Part of this code was written by Bill Earl.
 
 # Note
-All files are provided as-is. I welcome any questions, but some effort will be needed to fully comprehend the code structure. Additionally, I appreciate it when others send in their derivative works. You can contact me through my website, https://willemmm.nl.
+All files are provided as-is. I welcome any questions, but some effort will be needed to fully comprehend the code structure. Additionally, I appreciate it when others send in their derivative works. You can contact me through my website, https://willemm.nl.
